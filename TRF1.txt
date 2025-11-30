@@ -1,1 +1,2 @@
 This is NBranch version 1.
+This is after merge NBranch version 1.
